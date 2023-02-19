@@ -1,4 +1,4 @@
-# Porgram to subtract one number from another.
+# Program to subtract one number from another.
 # Author: Darren Miller
 
 x= int(input("Enter first number: "))
