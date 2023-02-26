@@ -8,3 +8,6 @@ car= {
     "Owner" : {"name" : "Darren", "driver number" : "1123"}
 }
 print (car)
+
+for key in car:
+    print (key, 'has value', car[key])
